@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D093B02998DA2D1167A4940D31F3A79EECC5CFFE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D093B02998DA2D1167A4940D31F3A79EECC5CFFE" : 0,
+    "1980054D8685742AB41A60CABFC650507BFF9F6D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "12291A7E-4826-4612-8093-14A20BA94027",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D093B02998DA2D1167A4940D31F3A79EECC5CFFE" : "DiceRollerWatch-master%202\/",
+    "1980054D8685742AB41A60CABFC650507BFF9F6D" : "DiceRollerWatch-master%202\/Pods\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DiceRoller",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DiceRoller.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MasterDover\/applewatch",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1980054D8685742AB41A60CABFC650507BFF9F6D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MasterDover\/applehelppleasenow",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D093B02998DA2D1167A4940D31F3A79EECC5CFFE"
+    }
+  ]
+}
